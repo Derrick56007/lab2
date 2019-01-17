@@ -14,4 +14,4 @@ function initializePage() {
 
 $(document).ready(function() {
     initializePage();
-})
+});
