@@ -12,4 +12,6 @@ function initializePage() {
     $("a.thumbnail").click(projectClick);
 }
 
-initializePage();   
+$(document).ready(function() {
+    initializePage();
+})
